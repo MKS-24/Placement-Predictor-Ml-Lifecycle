@@ -6,8 +6,6 @@ pipeline, from problem to live app.
 
 **Live demo:** [Placement Predictor: ML Lifecycle](https://placement-predictor-iota-navy.vercel.app/)
 
-![Placement Predictor screenshot](screenshot.png)
-
 ## ML lifecycle
 A typical ML project follows these stages:
 
